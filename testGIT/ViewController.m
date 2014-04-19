@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // this is a simple comment
+    // this is a simple comment and here is another
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
